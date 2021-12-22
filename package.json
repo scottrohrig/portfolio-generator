@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "- Dynamically adds projects to a portfolio site strictly using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottrohrig/portfolio-generator.git"
+  },
+  "author": "scottrohrig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottrohrig/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/scottrohrig/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
