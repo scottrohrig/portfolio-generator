@@ -10,7 +10,13 @@ Clone the repository
 
 Requirements - Node.js
 
+Install the node modules
+
     npm i
+
+Invoke the application using the following command from within the root directory:
+
+    node app.js
 
 ## Built With
 
